@@ -16,4 +16,6 @@
 
 ###
 
+![snake gif](https://github.com/erenhunerr/erenhunerr/blob/output/github-contribution-grid-snake.gif)
+
 ###
